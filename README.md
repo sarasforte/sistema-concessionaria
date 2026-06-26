@@ -11,6 +11,7 @@ Code Motors
 * Sara dos Santos Forte
 * Jéssica Luanna Ferreira de Macedo
 * José Eugênio da silva Bisneto
+* Luiz Gustavo Araújo Santos  
 
 ## Objetivo
 
