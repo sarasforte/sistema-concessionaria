@@ -6,14 +6,32 @@ public class Main {
 
     public static void main(String[] args) throws Exception {
 
-        MarcaDAO dao = new MarcaDAO();
+        ClienteDAO dao = new ClienteDAO();
 
-        List<Marca> marcas = dao.listar();
+        // TESTE DE ATUALIZAÇÃO
+        Cliente c = new Cliente();
 
-        System.out.println("Lista de marcas:");
+        c.setCpfCliente("555.888.111-66");
+        c.setStatusCliente("ATIVO");
+        c.setTelefone("(84) 99999-9999");
+        c.setNome("Daniel Nogueira");
+        c.setEndereco("Endereço Atualizado");
 
-        for (Marca m : marcas) {
-            System.out.println(m.getIdMarca() + " - " + m.getNome());
+        dao.atualizar(c);
+        //dao.deletar("555.888.111-66");
+
+        // LISTAR
+        List<Cliente> clientes = dao.listar();
+
+        for (Cliente cli : clientes) {
+            System.out.println(
+                cli.getCpfCliente() + " - " +
+                cli.getNome() + " - " +
+                cli.getStatusCliente()
+            );
         }
+
+        // TESTE DE EXCLUSÃO
+        // dao.deletar("555.888.111-66");
     }
 }
