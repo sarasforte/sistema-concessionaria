@@ -133,7 +133,7 @@ Relacionamentos:
 
 ## Diagrama Produzido
 
-<img width="642" height="479" alt="DER (1)" src="https://github.com/user-attachments/assets/6cefb7d7-c0e9-4d3c-8ae6-a8b2c952c6b8" />
+<img width="642" height="479" alt="DER atualizado" src="https://github.com/user-attachments/assets/1142fbb9-6d41-4606-bb89-e97569a894e7" />
 
 ## Menu Principal
 
