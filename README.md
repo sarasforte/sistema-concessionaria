@@ -1,5 +1,3 @@
-<img width="263" height="138" alt="menu" src="https://github.com/user-attachments/assets/3f107e22-7caa-4423-b420-77a2c784052f" />
-<img width="642" height="479" alt="DER (1)" src="https://github.com/user-attachments/assets/6cefb7d7-c0e9-4d3c-8ae6-a8b2c952c6b8" />
 # Sistema de Gerenciamento de Concessionária
 
 Projeto desenvolvido para as disciplinas de Projeto de Desenvolvimento de Software (PDS) e Programação com Acesso a Banco de Dados (PABD).
@@ -133,7 +131,14 @@ Relacionamentos:
 * Vendedor → Venda
 * Automóvel → Venda
 
+## Diagrama Produzido
+
+<img width="642" height="479" alt="DER (1)" src="https://github.com/user-attachments/assets/6cefb7d7-c0e9-4d3c-8ae6-a8b2c952c6b8" />
+
+## Menu Principal
+
+<img width="263" height="138" alt="menu" src="https://github.com/user-attachments/assets/3f107e22-7caa-4423-b420-77a2c784052f" />
+
 ## Repositório
 
 O desenvolvimento foi realizado utilizando Git e GitHub, com controle de versões, commits e gerenciamento das atividades através do GitHub Projects.
-
