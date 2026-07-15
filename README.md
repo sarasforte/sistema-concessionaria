@@ -99,3 +99,39 @@ private String url = "jdbc:mysql://localhost:3306/concessionaria";
 private String user = "root";
 private String password = "123456";
 ```
+
+### Execução
+
+1. Clonar o repositório:
+
+```bash
+git clone https://github.com/sarasforte/sistema-concessionaria.git
+```
+
+2. Importar o projeto para a IDE.
+
+3. Executar a classe Main.java.
+
+4. Utilizar o menu principal para acessar os módulos do sistema.
+
+## Estrutura do Banco de Dados
+
+Entidades implementadas:
+
+* Marca
+* Automóvel
+* Cliente
+* Vendedor
+* Venda
+
+Relacionamentos:
+
+* Marca → Automóvel
+* Cliente → Venda
+* Vendedor → Venda
+* Automóvel → Venda
+
+## Repositório
+
+O desenvolvimento foi realizado utilizando Git e GitHub, com controle de versões, commits e gerenciamento das atividades através do GitHub Projects.
+
