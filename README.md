@@ -8,10 +8,10 @@ Code Motors
 
 ## Integrantes
 
-* Sara dos Santos Forte
-* Jéssica Luanna Ferreira de Macedo
-* José Eugênio da silva Bisneto
-* Manoel Tomé de Mâcedo Bisneto 
+* Sara dos Santos Forte (Entidade Venda e Vendedor, CRUD Venda e Vendedor, testes das entidades, documentação (README))
+* Jéssica Luanna Ferreira de Macedo (Entidade Cliente, CRUD Cliente, testes da entidade)
+* José Eugênio da silva Bisneto (Entidade Marca, CRUD Marca, testes da entidade)
+* Manoel Tomé de Mâcedo Bisneto (Entidade Automovel, CRUD Automovel, testes da entidade)
 
 ## Objetivo
 
